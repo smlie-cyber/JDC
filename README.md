@@ -56,7 +56,7 @@ chmod 777 JDC
 
 vi config.toml
 
-第6步：再次输入命令运行即可。
+第5步：再次输入命令运行即可。
 
 nohup ./JDC &
 
