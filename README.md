@@ -29,12 +29,15 @@ rm -rf JDC config.toml
 第1步：
 
 cd /ql
+
 第2步:
 
 //如果你是amd64架构（服务器，PC等）
+
 wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_amd64.zip && unzip linux_amd64.zip
 
 //如果你是arm架构（N1，路由器，树莓派等）
+
 wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_arm.zip && unzip linux_arm.zip
 由于最近大佬们删库太快，来晚了就没了！很多人需要！
 
@@ -46,6 +49,7 @@ wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_arm.zip && unzi
 
 chmod 777 JDC
 ./JDC
+
 这时会生成配置文件，再次运行会出现报错并退出，我们需要修改配置文件。
 
 第4步：
@@ -67,10 +71,12 @@ firewall-cmd --zone=public --add-port=5700/tcp --permanent
 推荐直接部署在后端相同的服务器上，这样会比较简便。
 
 进入ql目录下的public 并下载前端文件
+
 cd public
 wget https://github.com/huayu8/JDC-web/releases/download/1.0.0/dist.zip && unzip dist.zip
 
 蓝奏云地址
+
 https://zhonguo1008.lanzoui.com/izFTLq792fe
 
 ## 前端仓库
