@@ -33,6 +33,7 @@ cd /ql
 
 //如果你是amd64架构（服务器，PC等）
 wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_amd64.zip && unzip linux_amd64.zip
+
 //如果你是arm架构（N1，路由器，树莓派等）
 wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_arm.zip && unzip linux_arm.zip
 由于最近大佬们删库太快，来晚了就没了！很多人需要！
