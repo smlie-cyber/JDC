@@ -75,6 +75,8 @@ firewall-cmd --zone=public --add-port=5700/tcp --permanent
 cd public
 wget https://github.com/huayu8/JDC-web/releases/download/1.0.0/dist.zip && unzip dist.zip
 
+#可以手动下载解压到服务器
+
 蓝奏云地址
 
 https://zhonguo1008.lanzoui.com/izFTLq792fe
