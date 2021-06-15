@@ -83,7 +83,7 @@ firewall-cmd --zone=public --add-port=5700/tcp --permanent
 
 cd public
 
-wget https://github.com/huayu8/JDC-web/releases/download/1.0.0/dist.zip && unzip dist.zip
+wget https://ghproxy.com/https://github.com/smlie-cyber/JDC-2/releases/tag/2.0.2/dist.zip && unzip dist.zip
 
 #可以手动下载解压到服务器
 
