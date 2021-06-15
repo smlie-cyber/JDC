@@ -14,6 +14,13 @@
 由使用本程序所产生的一切责任自负。
 安装用户控制面板 2021年6月7日已更新至2.0版本
 如果已经安装过1.0版本的请先删除，没有安装的跳过以下步骤，直接开始安装花语后端：
+//ubuntu
+
+apt install wget unzip
+
+//centos
+
+yum install wget unzip -y
 
 Kill查看并结束进程：
 
