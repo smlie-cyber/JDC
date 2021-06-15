@@ -34,7 +34,7 @@ cd /ql
 
 //如果你是amd64架构（服务器，PC等）
 
-wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_amd64.zip && unzip linux_amd64.zip
+wget https://ghproxy.com/https://github.com/smlie-cyber/JDC/releases/tag/2.0.0/linux_amd64.zip && unzip linux_amd64.zip
 
 //如果你是arm架构（N1，路由器，树莓派等）
 
