@@ -48,6 +48,7 @@ wget https://github.com/huayu8/JDC/releases/download/2.0.0/linux_arm.zip && unzi
 第3步：
 
 chmod 777 JDC
+
 ./JDC
 
 这时会生成配置文件，再次运行会出现报错并退出，我们需要修改配置文件。
