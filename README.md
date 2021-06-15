@@ -82,6 +82,7 @@ firewall-cmd --zone=public --add-port=5700/tcp --permanent
 进入ql目录下的public 并下载前端文件
 
 cd public
+
 wget https://github.com/huayu8/JDC-web/releases/download/1.0.0/dist.zip && unzip dist.zip
 
 #可以手动下载解压到服务器
