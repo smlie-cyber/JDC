@@ -65,13 +65,10 @@ chmod 777 JDC
 
 vi config.toml
 
-第5步：再次输入命令运行即可。
-
-nohup ./JDC &
 
 程序会自动在后台开始运行，默认端口为5701
 
-第6步：开放端口
+第5步：开放端口
 
 firewall-cmd --zone=public --add-port=5700/tcp --permanent
 
@@ -90,4 +87,8 @@ wget https://ghproxy.com/https://github.com/smlie-cyber/JDC-2/releases/tag/2.0.2
 蓝奏云地址
 
 https://zhonguo1008.lanzoui.com/izFTLq792fe
+
+第6步：再次输入命令运行即可。
+
+nohup ./JDC &
 
