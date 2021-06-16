@@ -76,7 +76,7 @@ firewall-cmd --zone=public --add-port=5700/tcp --permanent
 开始花语的前端部署：
 推荐直接部署在后端相同的服务器上，这样会比较简便。
 
-进入ql目录下的public 并下载前端文件
+第6步：进入ql目录下的public 并下载前端文件
 
 cd public
 
@@ -88,7 +88,7 @@ wget https://ghproxy.com/https://github.com/smlie-cyber/JDC-2/releases/tag/2.0.2
 
 https://zhonguo1008.lanzoui.com/izFTLq792fe
 
-第6步：再次输入命令运行即可。
+第7步：再次输入命令运行即可。
 
 nohup ./JDC &
 
