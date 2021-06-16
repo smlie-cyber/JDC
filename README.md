@@ -91,5 +91,3 @@ wget https://ghproxy.com/https://github.com/smlie-cyber/JDC-2/releases/tag/2.0.2
 
 https://zhonguo1008.lanzoui.com/izFTLq792fe
 
-## 前端仓库
-<https://github.com/huayu8/JDC-web>
